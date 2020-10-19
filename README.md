@@ -1,1 +1,1 @@
-# get-user-ad-static-ip
+# Get Active Directory Users with StaticIP
